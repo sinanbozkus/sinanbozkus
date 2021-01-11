@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 <!--
-**alperkaratas/alperkaratas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sinanbozkus/sinanbozkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <b>    
 
-![Alper's Github stats](https://github-readme-stats.vercel.app/api?username=sinanbozkus)
+![SinanBozkus's Github stats](https://github-readme-stats.vercel.app/api?username=sinanbozkus)
 
 <a href="https://www.linkedin.com/in/alper-karataş-071095109/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sinanbozkus">
