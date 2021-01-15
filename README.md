@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![SinanBozkus's Github stats](https://github-readme-stats.vercel.app/api?username=sinanbozkus)
 
-<a href="https://www.linkedin.com/in/alper-karataş-071095109/" target="_blank">
+<a href="https://www.linkedin.com/in/sinanbozkus/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sinanbozkus">
 </a>
 
